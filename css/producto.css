@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    background: #1b1b1b;
+}
+
+.nav1{
+    display: flex;
+    align-items: center;
+}
+
+.search{
+    width: 350px;
+    height: 40px;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    border:2px solid #bbbb00;
+}
+
+.nav__boton{
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 2px solid #bbbb00;
+    border-radius: 10px;
+    color: #bbbb00;
+}
+
+.nav2{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 80px;
+    margin-left: 40px;
+}
